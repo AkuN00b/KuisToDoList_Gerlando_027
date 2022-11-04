@@ -1,0 +1,101 @@
+﻿.req-val {
+    color: red;
+}
+
+html {
+    font-family: "Barlow", sans-serif;
+}
+
+body {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+table {
+    width: 100%;
+    border-radius: 10px;
+}
+
+    table.table2 {
+        width: 100%;
+        border-radius: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+.table1 td {
+    border: none;
+}
+
+.table2 td {
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+}
+
+table .titleText {
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.table2 .title {
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+table .inputName {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 4px;
+    width: 99%;
+}
+
+table .inputSelect {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 4px;
+    width: 100%;
+}
+
+table .inputTextArea {
+    width: 50%;
+    border-radius: 4px;
+}
+
+table .inputCB {
+    border-radius: 4px;
+    padding: 7px;
+}
+
+table .titik2 {
+    padding-right: 8px;
+}
+
+table .buttonBatal {
+    width: 50%;
+    background-color: white;
+    padding: 10px 0px 10px 0px;
+}
+
+table .buttonKirim {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 135px;
+    background-color: white;
+    padding: 10px 0px 10px 0px;
+}
+
+tr.bottomRow td {
+    padding-top: 30px;
+}
+
+tr.rowTable {
+    margin-top: 20px;
+}
+
+td.sisiKanan {
+    border-right: none;
+}
